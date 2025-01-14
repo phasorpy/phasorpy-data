@@ -1,3 +1,4 @@
+*.json binary
 *.bin binary
 *.zip binary
 *.ref binary
