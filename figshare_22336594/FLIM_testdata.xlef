@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LMSDataContainerHeader Version="2" ApplicationDescription="LMSIOManager" ApplicationVersion="1.15.5732.0">
+  <Element Name="FLIM_testdata.xlef" Visibility="1" CopyOption="1" UniqueID="d9f87ad9-b958-11ed-bb27-00506220277a">
+    <Data>
+      <Experiment Path="C:\Users\gohlke\Desktop\FLIM\LOF\2023_03_02_16_17_59--FLIM_testdata\FLIM_testdata.xlef" IsSavedFlag="1">
+        <TimeStamp HighInteger="31018341" LowInteger="2622388281" />
+      </Experiment>
+    </Data>
+    <Attributes>
+      <Attribute>__Recovered</Attribute>
+    </Attributes>
+    <Memory Size="0" MemoryBlockID="" />
+    <Children>
+      <Reference File=".%5Cmetadata%5Csample1_slice1.xlif" UUID="e99a9324-b95e-11ed-bb27-00506220277a" />
+      <Reference File=".%5Cmetadata%5Ciomanagerconfiguation.xlif" UUID="50ea7f43-e703-11ef-adeb-f0d4152570aa" />
+    </Children>
+  </Element>
+</LMSDataContainerHeader>
