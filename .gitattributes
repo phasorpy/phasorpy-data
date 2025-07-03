@@ -1,3 +1,5 @@
+*.txt binary
+*.csv binary
 *.json binary
 *.bin binary
 *.zip binary
