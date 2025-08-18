@@ -1,0 +1,37 @@
+********************************************************************************
+Image experiment  :\\LFD-Server\Files\Data\lfdguest1\lmalacri\Data PP-SP LAURDAN\221215-NIH3T3LAURDAN\04NIH3T3_LAURDAN   DATE:12/22/2015   TIME:2:02:09 PM
+Extension         :000
+Card type         :13
+Sampling freq     : 39666.80033
+Points per pixel  :1 0
+x_Range           :        600
+frame_y_range     :        256
+z_Range1          :          0
+x_Offset          :          0
+y_Offset          :          0
+z_Offset          :          0
+Scanner voltage   :4000000
+Frames integrated :18
+x0_frame          :         2
+wait_end_of_line  :       342
+Scan type         :         2
+Linescan point   0:       0
+Linescan point   0:       0
+Linescan point   1:       0
+Linescan point   1:       0
+Linescan point   2:       0
+Linescan point   2:       0
+Linescan point   3:       0
+Linescan point   3:       0
+FLIM BOX data
+Scanner time const:0
+P0_1 calibration factor for FLIMbox    ;-56.5
+M0_1 calibration factor for FLIMbox    ; 59.4
+P1_1 calibration factor for FLIMbox    ;-168.5
+M1_1 calibration factor for FLIMbox    ; 17.2
+P0_2 calibration factor for FLIMbox    ;144.0
+M0_2 calibration factor for FLIMbox    ; 52.0
+P1_2 calibration factor for FLIMbox    ; 25.5
+M1_2 calibration factor for FLIMbox    ; 14.0
+COMMENTS:
+FF 0.9955791
